@@ -1,0 +1,20 @@
+
+ .foot footer{
+    align-items: center;
+    width: 100%;
+    color: white;
+}
+h3,h2 {
+  font-family: Poppins;
+  text-align: center;
+}
+
+.foot{
+  font-family: Poppins;
+  background-color: #053742;
+  color: white;
+  text-align: center;
+  padding: 1px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
